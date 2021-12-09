@@ -4,7 +4,7 @@
 运行环境：Python 3.5+，Neo4j 3.1+
 Label:自然语言理解, NLP, NLU, 知识图谱, 问答
 作者：王佳秋
-日期：2021年4月2日
+日期：2021年4月2日 push to github
 网址：https://lyonwj.com/blog/nlp-with-neo4j
 """
 
